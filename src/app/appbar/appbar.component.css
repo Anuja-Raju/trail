@@ -1,0 +1,11 @@
+.logo-image {
+    width: 100px;
+    height: auto;
+    margin-right: 16px;
+  }
+
+  mat-toolbar {
+    background-color: #dfe8ef;
+    position: relative;
+  }
+
